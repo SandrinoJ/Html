@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(5, 185, 230, 0.897)
+}
+
+ul {
+    list-style-type: square;
+}
+
+img.cars {
+    border-radius: 20%;
+}
+
+hr {
+    width: 10%;
+    border-style: dotted none none;
+    border-width: 0.5rem;
+    border-color: rgba(173, 8, 132, 0.897);
+}
